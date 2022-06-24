@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987435784861",
+    "project_id": "lilacmachinetest",
+    "storage_bucket": "lilacmachinetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987435784861:android:58770656e42c631c2b5274",
+        "android_client_info": {
+          "package_name": "com.prthv.lilac_machine_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987435784861-49jse9ojfvj8ggd3i26lve4nuoli47vf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prthv.lilac_machine_test",
+            "certificate_hash": "231b5a4e6a8e3df0f3d1853ae4438b85ca96776f"
+          }
+        },
+        {
+          "client_id": "987435784861-phv1vhdl27tc9rh9cdtd9c7md4hl3dda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHBE8QFVHdpuu2qVwFOM632KjsH_TFA_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987435784861-phv1vhdl27tc9rh9cdtd9c7md4hl3dda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
